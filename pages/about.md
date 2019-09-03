@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 一个码农
-keywords: lrita, Neal
+keywords: jinj7
 comments: false
 menu: 关于
 permalink: /about/
