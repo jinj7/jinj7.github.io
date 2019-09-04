@@ -95,7 +95,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: jinj7
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: jinj7
